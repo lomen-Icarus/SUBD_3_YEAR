@@ -13,7 +13,7 @@
 | `sql/drop_db.sql` | удаление таблиц |
 | `diagrams/lab1_er.drawio` | диаграммы для draw.io (2 страницы: до и после изменений) |
 | `diagrams/er_before.png`, `diagrams/er_after.png` | те же диаграммы картинками |
-| `report/lab1_report.docx` | отчёт (без титульного листа) |
+| `report/lab1_report.docx` | отчёт (титульный лист с заглушками в квадратных скобках) |
 
 ## Запуск
 
